@@ -10,7 +10,7 @@ public class Tutorial1 {
         }
 
         //prints array in reverse order
-        for (int i = 4; i > -1; i--) {
+        for ( i = 4; i > -1; i--) {
             System.out.println(jokes[i]);
         }
 
